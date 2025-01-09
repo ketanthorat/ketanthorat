@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ketan Thorat!</h1>
 <h3 align="center">A Robotics Engineer, Innovator, and Entrepreneur.</h3>
 <img align="right" alt="robotics" width="250" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ketanthorat&label=Profile%20views&color=0e75b6&style=flat" alt="ketanthorat" /> </p>
+      <p align="center"> <img src="https://komarev.com/ghpvc/?username=ketanthorat&label=Profile%20views&color=0e75b6&style=flat" alt="ketanthorat" /> </p>
 
 - 👨‍💻 Explore all my projects at [www.ketanthorat.com](https://www.ketanthorat.com) - in development.
 
